@@ -1,0 +1,285 @@
+/* custom Buddy css */
+
+#budhist {
+        color:#ffffff;
+        height:auto;
+        text-align:left;
+        }
+.menulogo {
+        margin-top:20px;
+        position:absolute;
+        }
+.budpics {
+        display:block;
+        margin:0 auto;
+}
+
+.budhdr {
+        color:#ffffff;
+        text-align:center;
+        }
+
+#headpic {
+        height:600px;
+        max-width:100%;
+        background-size:cover;
+        }
+
+#budh3 {
+        color:#000000;
+        }
+
+.budblock {
+        width:200px;
+        background-color:#fff;
+        }
+
+.budpanel {
+        background: rgba(255, 0, 0, 0.0);
+        }
+
+.budpanel2 {
+        background: rgba(255, 0, 0, 0.0);
+        border:0px;
+}
+
+.budhead {
+        color:#fff;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 1);
+        font-family: Raleway,sans-serif;              
+        margin-top:20px;
+        text-align:center;        
+}
+.pipent {
+        color:#fff;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 1);
+        font-family: Raleway,sans-serif;
+        background-color:#000;
+        padding-top:10px;
+        }
+
+.bs-example {
+        margin: 20px;
+        background: url('../images/Fotolia_ValveDrawing.jpg') no-repeat;
+        }
+
+.pg1 {
+        padding:0px;
+        border-top:0px;
+        }
+.sshot {
+        
+        margin-top:0px;
+        }
+.sspanel {
+        text-align:right;
+        }
+.hdrphone {
+        padding-top:30px;
+        vertical-align:middle;
+        }
+.budslide {
+        border-bottom:0px;
+        height:450px;
+}
+.btrailer {
+        background:#ffc500;
+        width:250px;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 1);
+	font-family: Raleway,sans-serif;
+        }
+.spots {
+	color: #ffffff;
+        background: #fff url('../images/F_SunRigs1.jpg') no-repeat center center;
+	background-attachment: fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	text-align: center;
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0);
+	font-family: Raleway,sans-serif;
+}
+.budfooter {
+        height:52px;
+}
+.budmobile {
+        margin-top:-30px;
+}
+.budcontact {
+	color: #ffffff;
+        margin-top:50px;
+        margin-bottom:30px;
+        background-color:#ffc500;
+        text-align: center;
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0);
+	font-family: Raleway,sans-serif;
+}
+@media (min-width: 1600px) {
+.budslide {
+        width:800px;
+        margin-left:110px;
+        }
+.item {
+        height:400px;
+        margin-top:5px;
+        
+        }
+.pg1 {
+        width:800px;
+        margin-left:20px;
+        }
+}
+@media (max-width: 1300px) {
+.budslide {
+        width:700px;
+        
+        }
+.item {
+        height:400px;
+        margin-top:5px;
+        margin-left:25px;
+        }
+.pg1 {
+        width:800px;
+        margin-left:70px;
+        margin-left:5px;
+        }
+}
+@media (max-width: 1200px) {
+.budslide {
+        width:700px;
+        
+        }
+.item {
+        height:400px;
+        margin-top:5px;
+        
+        }
+.pg1 {
+        width:700px;
+        margin-left:10px;
+        }
+}
+@media (max-width: 980px) {
+.budslide {
+        width:700px;
+        
+        }
+.item {
+        height:400px;
+        margin-top:5px;
+        
+        }
+.pg1 {
+        width:800px;
+        margin-left:-50px;
+        }
+}
+
+@media (max-width: 950px) {
+.budslide {
+        width:600px;
+        height:330px;
+        }
+.item {
+        height:330px;
+        margin-top:5px;
+        margin-left:10px;
+        }
+.pg1 {
+        width:700px;
+        margin-left:-60px;
+        }
+}
+@media (max-width: 850px) {
+.budslide {
+        width:550px;
+        height:330px;
+        }
+.item {
+        height:330px;
+        margin-top:5px;
+        margin-left:5px;
+        }
+.pg1 {
+        width:700px;
+        margin-left:-90px;
+        }
+}
+@media (max-width: 750px) {
+.budslide {
+        width:500px;
+        height:270px;
+        }
+.item {
+        height:250px;
+        margin-top:5px;
+        }
+.pg1 {
+        width:500px;
+        margin-left:-60px;  
+        }
+}
+@media (max-width: 600px) {
+.budslide {
+        width:480px;
+        height:270px;
+        margin-left:25px;
+        }
+.item {
+        height:250px;
+        margin-top:5px;
+        
+        }
+.pg1 {
+        width:500px;
+        margin-left:-60px;  
+        }
+}
+@media (max-width: 480px) {
+.budslide {
+        width:370px;
+        margin-left:15px;
+        }
+.item {
+        height:250px;
+        margin-top:5px;
+        }
+
+.pg1 {
+        width:440px;
+        height:auto;
+        margin-left:-75px;          
+        }
+}
+@media (max-width: 400px) {
+.budslide {
+        width:290px;
+        margin-left:-3px;
+        }
+.item {
+        height:160px;
+        margin-top:8px;
+        }
+
+.pg1 {
+        width:320px;
+        }
+}
+@media (max-width: 330px) {
+.budslide {
+        width:250px;
+        margin-left:0px;
+        
+        }
+.item {
+        height:140px;
+        margin-top:5px;
+        }
+
+.pg1 {
+        width:270px;
+        margin-left:-55px;
+        }
+}
